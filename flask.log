@@ -1,0 +1,26 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7979
+ * Running on http://10.131.183.183:7979
+Press CTRL+C to quit
+127.0.0.1 - - [05/Jul/2025 09:29:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:29:24] "GET /static/script.js HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:29:25] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [05/Jul/2025 09:29:39] "POST /upload HTTP/1.1" 500 -
+127.0.0.1 - - [05/Jul/2025 09:29:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:29:52] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jul/2025 09:29:57] "POST /upload HTTP/1.1" 500 -
+127.0.0.1 - - [05/Jul/2025 09:30:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:30:42] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jul/2025 09:30:47] "POST /upload HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:30:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:30:50] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jul/2025 09:30:56] "POST /upload HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:36:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:36:31] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [05/Jul/2025 09:36:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:36:36] "GET /static/script.js HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jul/2025 09:36:38] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [05/Jul/2025 09:36:49] "POST /upload HTTP/1.1" 200 -
